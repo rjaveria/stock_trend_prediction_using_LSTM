@@ -19,6 +19,6 @@ Some of the key steps involve during the implemention of this project are:
 5) Evaluate the results by predicting the next 100 days of data based on past data.
 6) Visualize the results in graph using streamlit app.
 
-### Project Outcome:
+
 
      
